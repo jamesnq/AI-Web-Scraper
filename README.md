@@ -42,7 +42,7 @@ ai-scraper/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-scraper.git
+git clone https://github.com/jamesnq/AI-Web-Scraper.git
 cd ai-scraper
 ```
 
